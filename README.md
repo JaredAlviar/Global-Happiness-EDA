@@ -1,4 +1,4 @@
-World Happiness Report — Exploratory Data Analysis
+# World Happiness Report — Exploratory Data Analysis
 
 An exploratory data analysis (EDA) of the World Happiness Report dataset (157 countries, 13 variables) using Python in Google Colab.
 
